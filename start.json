@@ -1,5 +1,5 @@
 {
   "name": "Digitale Terrestre",
   "version": "1.0.0",
-  "start": "http://msx.benzac.de/m3u.html?url=https://tinyurl.com/54abyvra"
+  "parameter": "content:http://msx.benzac.de/m3u.html?url=https://tinyurl.com/54abyvra"
 }
